@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombre": "EcoPlanner",
+    "descripcion": "Aplicación web para planificar eventos sostenibles con impacto ambiental mínimo.",
+    "tecnologias": ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+    "enlace": "/img/1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "LuzApp",
+    "descripcion": "Plataforma de control inteligente de iluminación para el hogar.",
+    "tecnologias": ["Vue", "Firebase", "IoT", "SCSS"],
+    "enlace": "https://luzapp.io"
+  },
+  {
+    "id": 3,
+    "nombre": "MediSync",
+    "descripcion": "Sistema para coordinar tratamientos médicos entre pacientes y clínicas.",
+    "tecnologias": ["Angular", "Express", "PostgreSQL"],
+    "enlace": "https://medisync.health"
+  },
+  {
+    "id": 4,
+    "nombre": "Artly",
+    "descripcion": "Red social para artistas que permite compartir obras y recibir feedback.",
+    "tecnologias": ["Next.js", "Supabase", "Chakra UI"],
+    "enlace": "https://artly.app"
+  },
+  {
+    "id": 5,
+    "nombre": "NomadMatch",
+    "descripcion": "Marketplace para trabajadores remotos y espacios de coworking.",
+    "tecnologias": ["Svelte", "Django", "SQLite"],
+    "enlace": "https://nomadmatch.com"
+  },
+  {
+    "id": 6,
+    "nombre": "BookHive",
+    "descripcion": "Club de lectura virtual con recomendaciones personalizadas de libros.",
+    "tecnologias": ["React", "Firebase", "Material UI"],
+    "enlace": "https://bookhive.club"
+  },
+  {
+    "id": 7,
+    "nombre": "FitFusion",
+    "descripcion": "App de entrenamiento personalizado con IA y seguimiento de progreso.",
+    "tecnologias": ["Flutter", "TensorFlow", "GraphQL"],
+    "enlace": "https://fitfusion.ai"
+  },
+  {
+    "id": 8,
+    "nombre": "CodeTogether",
+    "descripcion": "Editor colaborativo en tiempo real para proyectos de desarrollo.",
+    "tecnologias": ["React", "Socket.io", "Node.js"],
+    "enlace": "https://codetogether.dev"
+  },
+  {
+    "id": 9,
+    "nombre": "PetConnect",
+    "descripcion": "Red para adopción de mascotas y conexión con veterinarios.",
+    "tecnologias": ["Vue", "Laravel", "MySQL"],
+    "enlace": "https://petconnect.org"
+  },
+  {
+    "id": 10,
+    "nombre": "GreenCart",
+    "descripcion": "E-commerce de productos ecológicos y sostenibles.",
+    "tecnologias": ["Next.js", "Stripe", "Sanity.io"],
+    "enlace": "https://greencart.shop"
+  },
+  {
+    "id": 11,
+    "nombre": "SoundVerse",
+    "descripcion": "Plataforma para crear y compartir paisajes sonoros generativos.",
+    "tecnologias": ["Three.js", "Tone.js", "Web Audio API"],
+    "enlace": "https://soundverse.app"
+  },
+  {
+    "id": 12,
+    "nombre": "LegalEase",
+    "descripcion": "Asistente virtual legal para generar contratos simples y seguros.",
+    "tecnologias": ["React", "Express", "OpenAI API"],
+    "enlace": "https://unsplash.com/es/fotos/una-mujer-sentada-en-una-mesa-con-muchos-papeles-ZH4FUYiaczY"
+  }
+]
