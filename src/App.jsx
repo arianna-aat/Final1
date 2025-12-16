@@ -5,13 +5,13 @@ import Calculadora from "./pagina3/Calculadora";
 import Proyectos from "./pagina4P/Proyectos";
 import Formulario from "./pagina5/Formulario";
 import Contenido from "./pagina1/Contenido1";
-import { Route, Routes, BrowserRouter } from "react-router-dom";
+import { Route, Routes, BrowserRouter, HashRouter } from "react-router-dom";
 import Inicio from "./Inicio";
 import Comentarios from "./pagina6/Comentarios";
 import Inicia from "./pagina7/Inicia";
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
 
       <Routes>
         <Route path="/" element={<Inicio />} />
@@ -23,7 +23,7 @@ function App() {
         <Route path="/inicia" element={<Inicia/>}/>
         
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
